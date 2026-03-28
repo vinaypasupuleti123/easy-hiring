@@ -1,0 +1,9 @@
+com\edtech\placementservice\dto\JobRequest.class
+com\edtech\placementservice\service\PlacementService.class
+com\edtech\placementservice\repository\JobRepository.class
+com\edtech\placementservice\PlacementServiceApplication.class
+com\edtech\placementservice\repository\ApplicationRepository.class
+com\edtech\placementservice\dto\ApplicationRequest.class
+com\edtech\placementservice\controller\PlacementController.class
+com\edtech\placementservice\entity\JobApplication.class
+com\edtech\placementservice\entity\Job.class

@@ -1,0 +1,30 @@
+server:
+  port: 8086
+
+spring:
+  application:
+    name: notification-service
+  datasource:
+    url: jdbc:postgresql://localhost:5432/easy_hiring_db
+    username: postgres
+    password: Vinay@123
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
+
+  # Email Configuration - Update with your actual credentials for real emails
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: vinaypasupuleti30@gmail.com
+    password: memv zwnz fxdt rbmg
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true

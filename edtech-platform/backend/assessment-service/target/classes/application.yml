@@ -1,0 +1,17 @@
+server:
+  port: 8084
+
+spring:
+  application:
+    name: assessment-service
+  datasource:
+    url: jdbc:postgresql://localhost:5432/easy_hiring_db
+    username: postgres
+    password: Vinay@123
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true

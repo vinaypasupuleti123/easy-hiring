@@ -1,0 +1,6 @@
+com\edtech\notificationservice\NotificationServiceApplication.class
+com\edtech\notificationservice\service\EmailService.class
+com\edtech\notificationservice\service\OtpService.class
+com\edtech\notificationservice\entity\OtpRecord.class
+com\edtech\notificationservice\repository\OtpRepository.class
+com\edtech\notificationservice\controller\NotificationController.class

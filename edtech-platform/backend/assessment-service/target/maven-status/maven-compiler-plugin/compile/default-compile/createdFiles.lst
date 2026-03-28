@@ -1,0 +1,11 @@
+com\edtech\assessmentservice\entity\Question.class
+com\edtech\assessmentservice\service\AssessmentService.class
+com\edtech\assessmentservice\dto\QuizRequest.class
+com\edtech\assessmentservice\repository\QuizRepository.class
+com\edtech\assessmentservice\entity\Quiz.class
+com\edtech\assessmentservice\entity\Submission.class
+com\edtech\assessmentservice\controller\AssessmentController.class
+com\edtech\assessmentservice\AssessmentServiceApplication.class
+com\edtech\assessmentservice\repository\QuestionRepository.class
+com\edtech\assessmentservice\repository\SubmissionRepository.class
+com\edtech\assessmentservice\dto\QuestionRequest.class

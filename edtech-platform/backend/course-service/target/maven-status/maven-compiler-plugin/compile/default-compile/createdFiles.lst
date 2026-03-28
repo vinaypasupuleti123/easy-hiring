@@ -1,0 +1,8 @@
+com\edtech\courseservice\entity\Course.class
+com\edtech\courseservice\controller\CourseController.class
+com\edtech\courseservice\repository\CourseRepository.class
+com\edtech\courseservice\entity\CourseMaterial.class
+com\edtech\courseservice\CourseServiceApplication.class
+com\edtech\courseservice\service\CourseService.class
+com\edtech\courseservice\dto\CourseRequest.class
+com\edtech\courseservice\repository\CourseMaterialRepository.class
